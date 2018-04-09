@@ -17,3 +17,4 @@ public class ObjectCounter {
         Punkt.PokazOstatniObiekt();
     }
 }
+//Tworzy randomowe liczby, które są przechowywane jako współrzędne w tablicy, ostatni print wyświetla ostatnie wygenerowane współrzędne.
